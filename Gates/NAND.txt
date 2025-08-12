@@ -1,0 +1,6 @@
+COMPONENT NAND
+INPUT x y
+OUTPUT out
+AND g1 x y temp
+NOT g2 temp out
+END

@@ -1,0 +1,6 @@
+COMPONENT NOR
+INPUT x y
+OUTPUT out
+OR g1 x y temp
+NOT g2 temp out
+END

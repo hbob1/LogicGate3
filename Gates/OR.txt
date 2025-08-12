@@ -1,0 +1,5 @@
+COMPONENT OR
+INPUT x y 
+OUTPUT out
+OR o1 x y out
+END

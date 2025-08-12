@@ -1,0 +1,6 @@
+COMPONENT AND
+INPUT x y 
+OUTPUT out
+AND a1 x y out
+END
+

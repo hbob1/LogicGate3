@@ -1,0 +1,6 @@
+COMPONENT __temp_sim__
+INPUT i1 i2 i3
+OUTPUT o1
+AND a1 i2 i1 temp1
+AND a2 temp1 i3 o1
+END
